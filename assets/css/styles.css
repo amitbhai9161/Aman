@@ -403,7 +403,8 @@ align-items: center;
 }
 /* END HERE */
 .home__img {
-  width: 160px;
+  width: 300px;
+ 
 }
 
 .home__handle {
@@ -415,6 +416,7 @@ align-items: center;
     hsla(var(--first-hue), var(--sat), var(--lig), 0.5),
     hsla(var(--first-hue), var(--sat), var(--lig), 0.1)
   );
+
 
   border-radius: 10rem 10rem 1rem 1rem;
   display: flex;
